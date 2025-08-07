@@ -7,14 +7,10 @@ sites:
     url: https://zhf.danielstanecki.com/ready
     expectedStatusCodes:
       - 200
-  - name: Dev Zillow Housing Forecast
+  - name: (Dev) Zillow Housing Forecast
     url: https://zhf-dev.danielstanecki.com/ready
     expectedStatusCodes:
       - 200
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
