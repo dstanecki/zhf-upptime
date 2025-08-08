@@ -1,6 +1,5 @@
-# Change these first
-owner: dstanecki # Your GitHub organization or username, where this repository lives
-repo: zhf-upptime # The name of this repository
+owner: dstanecki 
+repo: zhf-upptime
 
 sites:
   - name: Zillow Housing Forecast
@@ -16,8 +15,8 @@ status-website:
   baseUrl: /zhf-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Tracking the external uptime and response latency of my Zillow Housing Forecast app
+  introTitle: "**Zillow Housing Forecast App - Status Monitor**"
+  introMessage: Uptime and availability of the housing price prediction service running on my Raspberry Pi Kubernetes homelab.
   navbar:
     - title: Status
       href: /
