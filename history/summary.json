@@ -4,35 +4,39 @@
     "url": "https://zhf.danielstanecki.com/ready",
     "icon": "https://icons.duckduckgo.com/ip3/zhf.danielstanecki.com.ico",
     "slug": "zillow-housing-forecast",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 469,
-    "timeWeek": 376,
-    "timeMonth": 324,
-    "timeYear": 369,
-    "dailyMinutesDown": {}
+    "time": 461,
+    "timeDay": 4606,
+    "timeWeek": 1422,
+    "timeMonth": 604,
+    "timeYear": 461,
+    "dailyMinutesDown": {
+      "2025-10-25": 0
+    }
   },
   {
     "name": "(Dev) Zillow Housing Forecast",
     "url": "https://zhf-dev.danielstanecki.com/ready",
     "icon": "https://icons.duckduckgo.com/ip3/zhf-dev.danielstanecki.com.ico",
     "slug": "dev-zillow-housing-forecast",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 363,
-    "timeWeek": 325,
-    "timeMonth": 322,
-    "timeYear": 359,
-    "dailyMinutesDown": {}
+    "time": 358,
+    "timeDay": 283,
+    "timeWeek": 310,
+    "timeMonth": 323,
+    "timeYear": 358,
+    "dailyMinutesDown": {
+      "2025-10-25": 0
+    }
   }
 ]
