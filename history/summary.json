@@ -6,18 +6,16 @@
     "slug": "zillow-housing-forecast",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 3238,
-    "timeWeek": 1319,
+    "time": 461,
+    "timeDay": 3226,
+    "timeWeek": 1322,
     "timeMonth": 601,
-    "timeYear": 462,
-    "dailyMinutesDown": {
-      "2025-10-25": 5
-    }
+    "timeYear": 461,
+    "dailyMinutesDown": {}
   },
   {
     "name": "(Dev) Zillow Housing Forecast",
@@ -26,17 +24,15 @@
     "slug": "dev-zillow-housing-forecast",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 507,
+    "time": 363,
+    "timeDay": 471,
     "timeWeek": 382,
-    "timeMonth": 343,
-    "timeYear": 364,
-    "dailyMinutesDown": {
-      "2025-10-25": 5
-    }
+    "timeMonth": 339,
+    "timeYear": 363,
+    "dailyMinutesDown": {}
   }
 ]
