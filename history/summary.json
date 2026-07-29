@@ -4,17 +4,17 @@
     "url": "https://zhf.danielstanecki.com/ready",
     "icon": "https://icons.duckduckgo.com/ip3/zhf.danielstanecki.com.ico",
     "slug": "zillow-housing-forecast",
-    "status": "down",
-    "uptime": "97.97%",
-    "uptimeDay": "55.21%",
-    "uptimeWeek": "93.60%",
-    "uptimeMonth": "98.53%",
-    "uptimeYear": "97.97%",
-    "time": 1117,
-    "timeDay": 17655,
-    "timeWeek": 7288,
-    "timeMonth": 2719,
-    "timeYear": 1117,
+    "status": "up",
+    "uptime": "97.95%",
+    "uptimeDay": "50.01%",
+    "uptimeWeek": "92.86%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "97.95%",
+    "time": 1165,
+    "timeDay": 18172,
+    "timeWeek": 8465,
+    "timeMonth": 3235,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2025-11-17": 25,
       "2025-11-18": 148,
@@ -32,7 +32,7 @@
       "2026-03-19": 143,
       "2026-05-03": 46,
       "2026-05-09": 37,
-      "2026-07-29": 645
+      "2026-07-29": 720
     }
   },
   {
