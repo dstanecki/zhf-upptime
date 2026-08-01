@@ -1,7 +1,7 @@
 url: https://zhf.danielstanecki.com/ready
-status: up
-code: 200
-responseTime: 25154
-lastUpdated: 2026-08-01T08:56:28.128Z
+status: down
+code: 502
+responseTime: 30107
+lastUpdated: 2026-08-01T12:36:21.536Z
 startTime: 2025-08-07T20:48:54.206Z
 generator: Upptime <https://github.com/upptime/upptime>
