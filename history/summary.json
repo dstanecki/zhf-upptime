@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhf.danielstanecki.com.ico",
     "slug": "zillow-housing-forecast",
     "status": "down",
-    "uptime": "96.51%",
-    "uptimeDay": "43.59%",
+    "uptime": "96.49%",
+    "uptimeDay": "39.19%",
     "uptimeWeek": "41.43%",
-    "uptimeMonth": "80.37%",
-    "uptimeYear": "96.51%",
-    "time": 4247,
-    "timeDay": 25650,
-    "timeWeek": 23845,
-    "timeMonth": 18110,
-    "timeYear": 4306,
+    "uptimeMonth": "80.19%",
+    "uptimeYear": "96.49%",
+    "time": 4292,
+    "timeDay": 25235,
+    "timeWeek": 23742,
+    "timeMonth": 18393,
+    "timeYear": 4361,
     "dailyMinutesDown": {
       "2025-11-17": 25,
       "2025-11-18": 148,
@@ -41,7 +41,8 @@
       "2026-08-04": 1017,
       "2026-08-05": 924,
       "2026-08-06": 419,
-      "2026-08-07": 813
+      "2026-08-07": 848,
+      "2026-08-08": 46
     }
   },
   {
@@ -50,16 +51,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhf-dev.danielstanecki.com.ico",
     "slug": "dev-zillow-housing-forecast",
     "status": "down",
-    "uptime": "96.47%",
-    "uptimeDay": "44.02%",
+    "uptime": "96.45%",
+    "uptimeDay": "39.50%",
     "uptimeWeek": "40.94%",
-    "uptimeMonth": "79.62%",
-    "uptimeYear": "96.47%",
-    "time": 4467,
-    "timeDay": 25614,
-    "timeWeek": 24490,
-    "timeMonth": 18697,
-    "timeYear": 4530,
+    "uptimeMonth": "79.44%",
+    "uptimeYear": "96.45%",
+    "time": 4522,
+    "timeDay": 25611,
+    "timeWeek": 24488,
+    "timeMonth": 19022,
+    "timeYear": 4595,
     "dailyMinutesDown": {
       "2025-11-17": 25,
       "2025-11-18": 93,
@@ -84,7 +85,8 @@
       "2026-08-04": 759,
       "2026-08-05": 1066,
       "2026-08-06": 566,
-      "2026-08-07": 807
+      "2026-08-07": 842,
+      "2026-08-08": 46
     }
   }
 ]
